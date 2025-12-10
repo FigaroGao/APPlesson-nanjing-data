@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "南京博物院",
+    "description": "中国三大博物馆之一，收藏文物43万件，展品非常丰富，推荐历史爱好者必去！",
+    "address": "南京市玄武区中山东路321号",
+    "openingHours": "周二至周日 9:00-17:00（16:00停止入场）",
+    "level": "AAAAA",
+    "priceInfo": "免费（需提前预约）",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/nanjing_museum.jpg",
+    "reservationUrl": "https://www.njmuseum.com",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "夫子庙秦淮风光带",
+    "description": "南京最著名的夜景地，灯会超美，吃小吃看画舫船！",
+    "address": "南京市秦淮区贡院街",
+    "openingHours": "全天开放",
+    "level": "AAAAA",
+    "priceInfo": "免费（部分景点需门票）",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/fuzimiao.jpg",
+    "reservationUrl": "",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "中山陵",
+    "description": "孙中山先生陵寝，建筑宏伟，台阶392级，秋天银杏超美！",
+    "address": "南京市玄武区石象路7号",
+    "openingHours": "8:30-17:00",
+    "level": "AAAAA",
+    "priceInfo": "免费",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/zhongshanling.jpg",
+    "reservationUrl": "",
+    "rating": 4.9
+  }
+]
