@@ -1,39 +1,40 @@
 [
   {
     "id": 1,
-    "name": "南京博物院",
-    "description": "中国三大博物馆之一，收藏文物43万件，展品非常丰富，推荐历史爱好者必去！",
-    "address": "南京市玄武区中山东路321号",
-    "openingHours": "周二至周日 9:00-17:00（16:00停止入场）",
+    "name": "Nanjing Museum",
+    "description": "As one of China's three major museums, it houses 430,000 cultural relics and boasts a very rich collection of exhibits. It's a must-visit for history enthusiasts！",
+    "address": "321 Zhongshan East Road, Xuanwu District, Nanjing City",
+    "openingHours": "Tuesday to Sunday, 9:00 AM - 5:00 PM (last entry at 4:00 PM)",
     "level": "AAAAA",
-    "priceInfo": "免费（需提前预约）",
+    "priceInfo": "Free (advance booking required)",
     "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/images/nanjing_museum.jpg",
     "reservationUrl": "https://www.njmuseum.com",
     "rating": 4.8
   },
   {
     "id": 2,
-    "name": "夫子庙秦淮风光带",
-    "description": "南京最著名的夜景地，灯会超美，吃小吃看画舫船！",
-    "address": "南京市秦淮区贡院街",
-    "openingHours": "全天开放",
+    "name": "Confucius Temple",
+    "description": "Nanjing's most famous spot for night views, with stunning lantern displays, delicious street food, and scenic painted boats！",
+    "address": "Gongyuan Street, Qinhuai District, Nanjing City",
+    "openingHours": "Open all day",
     "level": "AAAAA",
-    "priceInfo": "免费（部分景点需门票）",
+    "priceInfo": "Free (some attractions require tickets)",
     "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/images/fuzimiao.jpg",
     "reservationUrl": "",
     "rating": 4.6
   },
   {
     "id": 3,
-    "name": "中山陵",
-    "description": "孙中山先生陵寝，建筑宏伟，台阶392级，秋天银杏超美！",
-    "address": "南京市玄武区石象路7号",
+    "name": "Sun Yat-sen Mausoleum",
+    "description": "Sun Yat-sen's mausoleum is a magnificent architectural structure with 392 steps, and the ginkgo trees are incredibly beautiful in the autumn！",
+    "address": "7 Shixiang Road, Xuanwu District, Nanjing City",
     "openingHours": "8:30-17:00",
     "level": "AAAAA",
-    "priceInfo": "免费",
+    "priceInfo": "Free",
     "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/images/zhongshanling.jpg",
     "reservationUrl": "",
     "rating": 4.9
   }
 
 ]
+
