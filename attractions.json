@@ -7,7 +7,7 @@
     "openingHours": "周二至周日 9:00-17:00（16:00停止入场）",
     "level": "AAAAA",
     "priceInfo": "免费（需提前预约）",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/nanjing_museum.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/images/nanjing_museum.jpg",
     "reservationUrl": "https://www.njmuseum.com",
     "rating": 4.8
   },
@@ -19,7 +19,7 @@
     "openingHours": "全天开放",
     "level": "AAAAA",
     "priceInfo": "免费（部分景点需门票）",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/fuzimiao.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/images/fuzimiao.jpg",
     "reservationUrl": "",
     "rating": 4.6
   },
@@ -31,8 +31,9 @@
     "openingHours": "8:30-17:00",
     "level": "AAAAA",
     "priceInfo": "免费",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/zhongshanling.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/FigaroGao/APPlesson-nanjing-data@main/images/zhongshanling.jpg",
     "reservationUrl": "",
     "rating": 4.9
   }
+
 ]
